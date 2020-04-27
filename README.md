@@ -11,3 +11,9 @@ cd my-app
 npm install
 npm run dev
 ```
+
+To prep files for static site hosting:
+
+```bash
+npx sapper export
+```
