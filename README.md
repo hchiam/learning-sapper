@@ -20,6 +20,8 @@ To prep files for static site hosting:
 
 ```bash
 npx sapper export
+# you'll see stuff inside: __sapper__/export
+surge __sapper__/export https://hchiam-sapper-demo.surge.sh
 ```
 
 [ndb](https://github.com/GoogleChromeLabs/ndb) is suggested for debugging server code:
