@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+Sapper is a web app dev framework powered by [Svelte](https://github.com/hchiam/learning-svelte).
+
 From <https://sapper.svelte.dev/docs#Getting_started>:
 
 ```bash
